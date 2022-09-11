@@ -1,0 +1,48 @@
+* {
+    color: blueviolet;
+}
+
+h3 {
+    color: red;
+}
+
+.new-home {
+    color: greenyellow;
+}
+
+#horse {
+    color: grey;
+}
+
+div.travel {
+    color: whitesmoke;
+}
+
+.false.introduction {
+    color: aliceblue;
+}
+
+.miss,
+.new-home {
+    color: lightcoral;
+}
+
+.travel p {
+    color: teal;
+}
+
+.horse * {
+    color: yellow;
+}
+
+.new-home>p {
+    color: black;
+}
+
+.introduction~p {
+    color: chocolate;
+}
+
+.false+p {
+    color: hotpink;
+}
